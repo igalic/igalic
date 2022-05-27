@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 My name is Mina Galić.
-I’m a DevOps person, part-time a stay-at-home mom.
-The other part-time, I work at [@puppet](github.com/puppetlabs).
+I’m a DevOps person, part time FLOSS contributor, part-time a stay-at-home mom.
 See [my Résumé](https://igalic.co/cv.html) for all references, since only a fraction of my work, even my Open Source work, happens here on github.
 
 - 🙋🏻‍♀️ Pronouns: [she or they](http://my.pronoun.is/she/:or/they/.../themself) 
-- 💬 Ask me about ... why Puppet is the best configuration management framework
 - 📫 How to reach me: Why don't you see [my website](https://igalic.co/)?
 - 👻 i might already be in your IRC or matrix channel as meena
 
